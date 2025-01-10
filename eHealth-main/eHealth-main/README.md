@@ -102,11 +102,9 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 
 ## Author
 
-Your Name - [Jubair Ahmed](https://github.com/justJubair)
+Your Name - [Ananya Sharma]
 
-## Contact
 
-For any inquiries or support, please contact [jubair.ahmed2838@gmail.com](mailto:jubair.ahmed2838@gmail.com).
 
 ---
 
